@@ -16,6 +16,6 @@ function realizaAccionUsuario(){
     Number(descuento)
     
     let precioFinal = calcularDescuento(precioInicial, descuento)
-    alert(precioFinal)
+    alert(`el Precio Final a pagar es: ${precioFinal}`)
 }
 
