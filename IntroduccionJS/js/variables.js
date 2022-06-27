@@ -41,3 +41,4 @@ nombre = "pepito23"
 // _(guiones bajos)
 // o $(signo de dolar)
 // y no puede iniciar con numeros(1nombre) o llebar entre medio signos diferentes a los anteriores(nombre+apellido-persona) ni espacios en blanco entre palabras(nombre completo)
+
